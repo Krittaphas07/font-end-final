@@ -40,7 +40,7 @@ export default function Home() {
   <div id="carouselExampleFade" className="carousel slide carousel-fade">
     <div className="carousel-inner">
       <div className="carousel-item active">
-        <img src="https://fastcdn.hoyoverse.com/mi18n/nap_global/m20240603hy38zhr2tc/upload/c7cfeee81741202ec4534c7905ed0ffc_7062804356028171249.png" className="d-block w-100" alt="..." />
+        <img src="https://gmedia.playstation.com/is/image/SIEPDC/playstation-accessories-hero-banner-featured-desktop-01-en-id-01mar24?$1600px--t$" className="d-block w-100" alt="..." />
       </div>
       <div className="carousel-item">
         <img src="https://www.playstation.com/th-th/games/nba-2k/" className="d-block w-100" alt="..." />
@@ -64,33 +64,33 @@ export default function Home() {
 <div className="row text-center">
   <div className="col-4 text-center">
   <div className="card" style={{width: '39rem'}}>
-  <img src="https://gmedia.playstation.com/is/image/SIEPDC/ps5-game-carousel-spider-man-3-15jan24?$800px--t$" className="card-img-top" alt="..." />
+  <img src="https://gmedia.playstation.com/is/image/SIEPDC/dualsense-sterling-steel-screenshot-01-en-29jan24?$1600px--t$" className="card-img-top" alt="..." />
   <div class="card-body">
-    <h5 class="card-title">Marvel's Spider-Man 2</h5>
-    <p class="card-text">Spider-Men, Peter Parker and Miles Morales, return for an exciting new adventure in the critically acclaimed Marvel’s Spider-Man franchise for PS5.</p>
-    <a href="https://www.playstation.com/en-th/games/marvels-spider-man-2/" class="btn btn-primary">เพิ่มเติม</a>
+    <h5 class="card-title">คอนโทรลเลอร์ไร้สาย DualSense – Deep Earth Collection</h5>
+    <p class="card-text">คลือบโทนโลหะที่สดใหม่ให้กับการเล่นของคุณด้วยคอนโทรลเลอร์ไร้สาย DualSense – Deep Earth Collection*</p>
+    <a href="https://www.playstation.com/th-th/accessories/dualsense-wireless-controller/" class="btn btn-primary">เพิ่มเติม</a>
   </div>
   </div>
   </div>
 
   <div className="col-4 text-center">
   <div className="card" style={{width: '39rem'}}>
-  <img src="https://gmedia.playstation.com/is/image/SIEPDC/ps5-games-got-image-block-01-en-01nov21?$800px--t$" className="card-img-top" alt="..." />
+  <img src="https://gmedia.playstation.com/is/image/SIEPDC/access-controller-image-block-02-en-25jul23?$1600px--t$" className="card-img-top" alt="..." />
   <div class="card-body">
-    <h5 class="card-title">Ghost of Tsushima Director's Cut</h5>
-    <p class="card-text">Forge a new path and wage an unconventional war for the freedom of Tsushima. Challenge opponents with your katana.</p>
-    <a href="https://www.playstation.com/en-th/games/ghost-of-tsushima/" class="btn btn-primary">เพิ่มเติม</a>
+    <h5 class="card-title">อุปกรณ์ควบคุม Access™</h5>
+    <p class="card-text">ชุดคอนโทรลเลอร์ PlayStation®5 ที่ปรับแต่งได้อย่างมากออกแบบเพื่อให้การเล่นเกมเข้าถึงได้มากขึ้น</p>
+    <a href="https://www.playstation.com/th-th/accessories/access-controller/" class="btn btn-primary">เพิ่มเติม</a>
   </div>
   </div>
   </div>
 
   <div className="col-4 text-center">
   <div className="card" style={{width: '39rem'}}>
-  <img src="https://gmedia.playstation.com/is/image/SIEPDC/ps5-games-gt7-hub-image-block-01-en-10mar22?$800px--t$" className="card-img-top" alt="..." />
+  <img src="https://gmedia.playstation.com/is/image/SIEPDC/ps-portal-remote-player-ui-product-strand-02-en-29aug23?$1600px--t$" className="card-img-top" alt="..." />
   <div class="card-body">
-    <h5 class="card-title">Gran Turismo® 7</h5>
-    <p class="card-text">Whether you’re a competitive or casual racer, collector, tuner, livery designer or photographer – find your line with a staggering collection of game modes.</p>
-    <a href="https://www.playstation.com/en-th/games/gran-turismo-7/" class="btn btn-primary">เพิ่มเติม</a>
+    <h5 class="card-title">อุปกรณ์เล่นระยะไกล PlayStation Portal™ สำหรับคอนโซล PS5®</h5>
+    <p class="card-text">รอติดตามวันวางจำหน่ายอุปกรณ์เล่นระยะไกล PlayStation Portal™ ในประเทศของคุณต่อไป</p>
+    <a href="https://www.playstation.com/th-th/accessories/playstation-portal-remote-player/" class="btn btn-primary">เพิ่มเติม</a>
   </div>
   </div>
   </div>

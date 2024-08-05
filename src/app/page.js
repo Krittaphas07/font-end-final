@@ -1,3 +1,6 @@
+import'bootstrap/dist/css/bootstrap.min.css';
+import Link from "next/link";
+
 export default function Home() {
   return (
 <>
@@ -10,7 +13,7 @@ export default function Home() {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="/">Home</a>
+          <a className="nav-link active" aria-current="page" href="./">Home</a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="/about">About</a>
@@ -30,7 +33,7 @@ export default function Home() {
       </ul>
       <form className="d-flex" role="Sign">
         <button className="btn btn-outline-success" type="submit">sign in</button>
-        <button className="btn btn-outline-success" type="submit">sign up</button>
+        <Link href="signup" className="btn btn-outline-success" type="submit">sign up</Link>
       </form>
     </div>
     </div>

@@ -32,8 +32,8 @@ export default function Home() {
         </li>
       </ul>
       <form className="d-flex" role="Sign">
-        <button className="btn btn-outline-success" type="submit">sign in</button>
-        <Link href="signup" className="btn btn-outline-success" type="submit">sign up</Link>
+        <Link href="signup" className="btn btn-outline-success" type="submit">Sign Up</Link>
+        <Link href="login" className="btn btn-outline-success" type="submit">Log in</Link>
       </form>
     </div>
     </div>
